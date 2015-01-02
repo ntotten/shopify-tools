@@ -1,0 +1,15 @@
+{
+  "name": "nhbooks_tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "skumap": "node skumap.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "request": "^2.51.0"
+  }
+}
