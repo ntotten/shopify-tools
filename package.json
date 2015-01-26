@@ -7,7 +7,8 @@
     "skumap": "node scripts/skumap.js",
     "updateproducts": "node scripts/update_products.js",
     "productredirects": "node scripts/create_product_redirects.js",
-    "categoryredirects": "node scripts/create_category_redirects.js"
+    "categoryredirects": "node scripts/create_category_redirects.js",
+    "updatevariants": "node scripts/update_product_variants.js"
   },
   "author": "",
   "license": "ISC",
